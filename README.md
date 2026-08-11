@@ -74,59 +74,6 @@ Atualmente, continuo expandindo meu portfólio e aprofundando conhecimentos em *
 <br>
 
 
-**Áreas**
-
-`Front-end` `Portfólio` `Marca Pessoal`
-
-<br>
-
-<a href="https://github.com/restoffkaua08-afk/Portifolio-pessoal">
-<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=020617">
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-# `> OBJETIVOS.ATUAIS`
-
-```text
-[01] Desenvolver projetos cada vez mais completos e profissionais
-
-[02] Aprofundar conhecimentos em Engenharia de Software
-
-[03] Evoluir em arquitetura, organização e qualidade de código
-
-[04] Construir aplicações Full Stack mais robustas
-
-[05] Explorar Inteligência Artificial e Automação aplicadas a produtos
-
-[06] Resolver problemas reais através de tecnologia
-
-[07] Construir uma carreira sólida em desenvolvimento de software
-```
-
-<br>
-
-# `> ÁREAS.DE_INTERESSE`
-
-```diff
-+ Desenvolvimento de Software
-+ Desenvolvimento Web
-+ Engenharia de Software
-+ Arquitetura de Sistemas
-+ Inteligência Artificial
-+ Automação
-+ Cibersegurança
-+ Hardware
-+ Novas Tecnologias
-```
-
-<br>
 
 # `> GITHUB.ANALYTICS`
 
