@@ -75,6 +75,61 @@ Atualmente, continuo expandindo meu portfólio e aprofundando conhecimentos em *
 
 
 
+# `> FEATURED.PROJECTS`
+
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### MR Commerce Platform
+
+Plataforma full-stack para catálogo e descoberta de produtos, construída com Next.js, TypeScript, Fastify e MySQL.
+
+[![Repositório](https://img.shields.io/badge/ABRIR%20PROJETO-MR%20COMMERCE-22D3EE?style=for-the-badge&labelColor=020617)](https://github.com/restoffkaua08-afk/mr-commerce-platform)
+
+</td>
+<td width="50%" valign="top">
+
+### Bairro Conectado
+
+Sistema comunitário multiplataforma com portal web, API Node.js, SQL Server e aplicação administrativa em C#.
+
+[![Repositório](https://img.shields.io/badge/ABRIR%20PROJETO-BAIRRO%20CONECTADO-22D3EE?style=for-the-badge&labelColor=020617)](https://github.com/restoffkaua08-afk/TCC_Senac_BairroConectado)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### TSEA V-Twin
+
+Protótipo de Gêmeo Digital para simulação, supervisão e rastreabilidade de processos industriais de vácuo.
+
+[![Repositório](https://img.shields.io/badge/ABRIR%20PROJETO-TSEA%20V--TWIN-22D3EE?style=for-the-badge&labelColor=020617)](https://github.com/restoffkaua08-afk/TCC-versao-01)
+
+</td>
+<td width="50%" valign="top">
+
+### Gerenciamento de Estoque
+
+Aplicação desktop em C#, .NET, Windows Forms e MySQL para controle de produtos e operações de estoque.
+
+[![Repositório](https://img.shields.io/badge/ABRIR%20PROJETO-ESTOQUE-22D3EE?style=for-the-badge&labelColor=020617)](https://github.com/restoffkaua08-afk/Gerenciamento-de-estoque)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Todos os repositórios](https://img.shields.io/badge/EXPLORAR%20TODOS%20OS%20REPOSITÓRIOS-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/restoffkaua08-afk?tab=repositories)
+
+</div>
+
+<br>
+
 # `> GITHUB.ANALYTICS`
 
 <div align="center">
